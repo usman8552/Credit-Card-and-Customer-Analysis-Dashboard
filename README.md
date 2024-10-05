@@ -29,7 +29,7 @@ This project provides a detailed analysis of credit card usage and customer beha
 **Description:**  
 This visualization provides a comprehensive summary of total revenue, maximum credit limit, and total transaction amounts. The key financial performance metrics of credit cards are clearly displayed.
 
-![Credit Card Dashboard]([insert-image-link-here](https://github.com/usman8552/Credit-Card-and-Customer-Analysis-Dashboard/blob/main/%7B318C87A6-9273-48C7-B49F-79A334537C88%7D.png))
+![Credit Card Dashboard](https://github.com/usman8552/Credit-Card-and-Customer-Analysis-Dashboard/blob/main/%7B318C87A6-9273-48C7-B49F-79A334537C88%7D.png))
 
 ---
 
@@ -37,7 +37,7 @@ This visualization provides a comprehensive summary of total revenue, maximum cr
 **Description:**  
 Detailed customer insights with metrics such as customer status (active/inactive), total credit limit, and average transaction size. These insights allow businesses to fine-tune their credit card offers based on customer profiles.
 
-![Customer Insights]([insert-image-link-here](https://github.com/usman8552/Credit-Card-and-Customer-Analysis-Dashboard/blob/main/%7B8D8A1E60-745A-414D-878C-82077F7B6EF4%7D.png))
+![Customer Insights](https://github.com/usman8552/Credit-Card-and-Customer-Analysis-Dashboard/blob/main/%7B8D8A1E60-745A-414D-878C-82077F7B6EF4%7D.png)
 
 ---
 
